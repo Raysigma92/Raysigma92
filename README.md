@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raysigma92
 - 👀 I’m interested in learning any, and everything I can about Coding.
 - 🌱 I’m currently learning Javascript, HTML, and I am about to create a website!
-- 💞️ I’m looking to collaborate on anything and everything that will help me learn Coding
+- 💞️ I’m looking to collaborate on anything and everything that will help me learn more about Coding.
 - 📫 How to reach me. You can reach me by airways. You can reach me by trailways. LOL! Get here if you can...
 
 <!---
